@@ -11,5 +11,5 @@
 ## 目录
 
 - [Day000](https://pxiaoer.blog/2020/10/18/day000/)
-- Day1 
+- [Day001](https://pxiaoer.blog/2020/10/19/day001/) 
 - Day2 
