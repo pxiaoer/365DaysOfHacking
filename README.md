@@ -13,3 +13,5 @@
 - [Day000](https://pxiaoer.blog/2020/10/18/day000/)
 - [Day001](https://pxiaoer.blog/2020/10/19/day001/) 
 - [Day002](https://pxiaoer.blog/2020/10/20/day002/) 
+- [Day003](https://pxiaoer.blog/2020/10/21/day003/)
+- [Day004](https://pxiaoer.blog/2020/10/22/day004/) 
