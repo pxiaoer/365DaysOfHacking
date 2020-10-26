@@ -15,3 +15,7 @@
 - [Day002](https://pxiaoer.blog/2020/10/20/day002/) 
 - [Day003](https://pxiaoer.blog/2020/10/21/day003/)
 - [Day004](https://pxiaoer.blog/2020/10/22/day004/) 
+- [Day005](https://pxiaoer.blog/2020/10/23/day005/) 
+- [Day006](https://pxiaoer.blog/2020/10/24/day006/) 
+- [Day007](https://pxiaoer.blog/2020/10/25/day007/) 
+- [Day008](https://pxiaoer.blog/2020/10/26/day008/) 
