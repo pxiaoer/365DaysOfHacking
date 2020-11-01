@@ -19,3 +19,7 @@
 - [Day006](https://pxiaoer.blog/2020/10/24/day006/) 
 - [Day007](https://pxiaoer.blog/2020/10/25/day007/) 
 - [Day008](https://pxiaoer.blog/2020/10/26/day008/) 
+- [Day009](https://pxiaoer.blog/2020/10/27/day009/) 
+- [Day010](https://pxiaoer.blog/2020/10/28/day010/) 
+- [Day011](https://pxiaoer.blog/2020/10/29/day011/) 
+- [Day012](https://pxiaoer.blog/2020/10/26/day012/) 
