@@ -22,4 +22,11 @@
 - [Day009](https://pxiaoer.blog/2020/10/27/day009/) 
 - [Day010](https://pxiaoer.blog/2020/10/28/day010/) 
 - [Day011](https://pxiaoer.blog/2020/10/29/day011/) 
-- [Day012](https://pxiaoer.blog/2020/10/26/day012/) 
+- [Day012](https://pxiaoer.blog/2020/10/30/day012/) 
+- [Day013](https://pxiaoer.blog/2020/10/31/day013/) 
+- [Day014](https://pxiaoer.blog/2020/11/01/day014/) 
+- [Day015](https://pxiaoer.blog/2020/11/02/day015/) 
+- [Day016](https://pxiaoer.blog/2020/11/03/day016/) 
+- [Day017](https://pxiaoer.blog/2020/11/04/day017/) 
+- [Day018](https://pxiaoer.blog/2020/11/05/day018/) 
+
