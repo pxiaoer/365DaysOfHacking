@@ -52,6 +52,12 @@
 - [Day039](https://pxiaoer.blog/2020/11/26/day039/) 
 - [Day040](https://pxiaoer.blog/2020/11/27/day040/) 
 - [Day041](https://pxiaoer.blog/2020/11/28/day041/) 
+- [Day042](https://pxiaoer.blog/2020/11/29/day042/) 
+- [Day043](https://pxiaoer.blog/2020/11/30/day043/)
+- [Day044](https://pxiaoer.blog/2020/12/01/day044/)
+
+
+
 
 
 
