@@ -60,9 +60,9 @@
 - [Day047](https://pxiaoer.blog/2020/12/04/day047/)
 - [Day048](https://pxiaoer.blog/2020/12/05/day048/)
 - [Day049](https://pxiaoer.blog/2020/12/06/day049/)
-- [Day050:强化0天](https://pxiaoer.blog/2020/12/07/day050/)
-- [Day051:强化1天](https://pxiaoer.blog/2020/12/08/day051/)
-- [Day052:强化2天](https://pxiaoer.blog/2020/12/09/day052/)
+- [Day050:强化第0天](https://pxiaoer.blog/2020/12/07/day050/)
+- [Day051:强化第1天](https://pxiaoer.blog/2020/12/08/day051/)
+- [Day052:强化第2天](https://pxiaoer.blog/2020/12/09/day052/)
 
 
 
