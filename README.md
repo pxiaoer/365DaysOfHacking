@@ -2,7 +2,7 @@
 
 时间： 2022.1.1——2023.1.1
 
-文章目录： [漏洞挖掘365天挑战](https://pxiaoer.blog/category/hack/365daysofhacking/)
+欢迎关注我的小报童：[P小二的每日思考](https://xiaobot.net/p/pxiaoer)  每日更新
 
 
 ## 目录
