@@ -4,6 +4,7 @@
 
 欢迎关注我的小报童：[P小二的每日思考](https://xiaobot.net/p/pxiaoer)  每日更新
 
+加我的微信pxiaoer2025，和我交流
 
 ## 目录
 
