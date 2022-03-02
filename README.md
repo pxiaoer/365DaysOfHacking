@@ -7,7 +7,7 @@
 
 ## 目录
 
-[博客目录](https://pxiaoer.blog/category/hack/365daysofhacking/)
+[博客目录](https://pxiaoer.blog/2022/01/01/hacking-2022/)
 
 - Day001：谈谈目标选择
 - Day002：OWASP Top 10 2021
@@ -70,19 +70,3 @@
 - Day059：2月总结
 - Day060：漏洞学习之CSRF
 - Day061：漏洞报告学习之Reflected xss and open redirect on larksuite.com using /?back_uri= parameter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
