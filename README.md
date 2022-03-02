@@ -6,7 +6,7 @@
 欢迎关注我的小报童：[P小二的每日思考](https://xiaobot.net/p/pxiaoer)  每日更新
 
 
- 交流加我的微信pxiaoer2025
+加我的微信交流: pxiaoer2025
 
 ## 目录
 
