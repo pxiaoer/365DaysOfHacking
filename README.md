@@ -1,11 +1,11 @@
 # 漏洞挖掘365天挑战
 
-时间： 2022.1.1——2023.1.1
+时间： 2022.1.1——2023.1.1  
+  
+  
+欢迎关注我的小报童：[P小二的每日思考](https://xiaobot.net/p/pxiaoer)  每日更新  
 
-
-欢迎关注我的小报童：[P小二的每日思考](https://xiaobot.net/p/pxiaoer)  每日更新
-
-
+  
 还可以加我的微信交流: pxiaoer2025
 
 ## 目录
@@ -60,7 +60,7 @@
 - Day046：最好的5个bugbountytips
 - Day047：漏洞报告学习之How I was able to bypass the admin panel without the credentials.
 - Day048：漏洞报告学习之 CSRF in Instagram
-- Day049：漏洞报告学习之 Authentication Bypass | Easy P1 in 10 minutes
+- Day049：漏洞报告学习之 Authentication Bypass Easy P1 in 10 minutes
 - Day050：漏洞报告学习之$5000 Google IDOR Vulnerability Writeup
 - Day051：漏洞报告学习之How I accessed the Sensitive document which I had already deleted
 - Day052：blackhat议题之AIModel-Mutator: Finding Vulnerabilities in TensorFlow
